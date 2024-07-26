@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #000000;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -2167,7 +2167,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #935d8c;
+			background: #a62828;
 		}
 
 	input[type="checkbox"] + label,
@@ -2291,23 +2291,23 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #000000;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #000000;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #000000;
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #000000;
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #000000;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -3492,7 +3492,7 @@ input, select, textarea {
 		#main input[type="checkbox"]:focus + label:before,
 		#main input[type="radio"]:focus + label:before {
 			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			box-shadow: 0 0 0 1px #b64646;
 		}
 
 		#main ::-webkit-input-placeholder {
@@ -3546,10 +3546,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #000000, #a4a4a4, #000000);
+			background-image: -webkit-linear-gradient(90deg,  #000000, #a4a4a4, #000000);
+			background-image: -ms-linear-gradient(90deg,  #000000, #a4a4a4, #000000);
+			background-image: linear-gradient(90deg,  #000000, #a4a4a4, #000000);
 		}
 
 		#main table tbody tr {
